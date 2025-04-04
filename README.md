@@ -1,4 +1,4 @@
-##FitPlush Automation Framework##
+##FitPlush Automation Framework
 
 ## 📌 Project Overview
 FitPlush Automation Framework is a scalable and efficient test automation solution designed to ensure the quality and reliability of FitPlush applications. 
